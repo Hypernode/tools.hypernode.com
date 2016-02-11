@@ -1,4 +1,4 @@
-![Sponsored by Hypernode](hypernode-logo.png)
+![Sponsored by Hypernode](http://tools.hypernode.com/hypernode-logo.png)
 
 # Magento Labs (beta)
 
@@ -75,4 +75,6 @@ $ curl http://tools.hypernode.com/patches/enterprise/1.10.0.1
 
 ## Contact
 
-[hypernode@byte.nl](mailto:hypernode@byte.nl) or fork me at Github
+We are the Hypernode dev team, dedicated to build the best Magento PaaS on earth! 
+
+[hypernode@byte.nl](mailto:hypernode@byte.nl) or [fork me at Github](https://github.com/Hypernode/tools.hypernode.com)
