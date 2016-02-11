@@ -1,0 +1,1376 @@
+{
+    "0": {
+        "codePool": "core",
+        "Name": "Mage_Core",
+        "Version": "1.6.0.6",
+        "Status": "active"
+    },
+    "1": {
+        "codePool": "core",
+        "Name": "Mage_Eav",
+        "Version": "1.6.0.1",
+        "Status": "active"
+    },
+    "2": {
+        "codePool": "core",
+        "Name": "Mage_Page",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "3": {
+        "codePool": "core",
+        "Name": "Mage_Install",
+        "Version": "0.7.0",
+        "Status": "active"
+    },
+    "4": {
+        "codePool": "core",
+        "Name": "Mage_Admin",
+        "Version": "1.6.1.2",
+        "Status": "active"
+    },
+    "5": {
+        "codePool": "core",
+        "Name": "Mage_Rule",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "6": {
+        "codePool": "core",
+        "Name": "Mage_Adminhtml",
+        "Version": "0.7.1",
+        "Status": "active"
+    },
+    "7": {
+        "codePool": "core",
+        "Name": "Mage_AdminNotification",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "8": {
+        "codePool": "core",
+        "Name": "Mage_Cron",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "9": {
+        "codePool": "core",
+        "Name": "Mage_Directory",
+        "Version": "1.6.0.3",
+        "Status": "active"
+    },
+    "10": {
+        "codePool": "core",
+        "Name": "Mage_Dataflow",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "11": {
+        "codePool": "core",
+        "Name": "Mage_Cms",
+        "Version": "1.6.0.0.2",
+        "Status": "active"
+    },
+    "12": {
+        "codePool": "core",
+        "Name": "Mage_Index",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "13": {
+        "codePool": "core",
+        "Name": "Mage_Customer",
+        "Version": "1.6.2.0.4",
+        "Status": "active"
+    },
+    "14": {
+        "codePool": "core",
+        "Name": "Mage_Catalog",
+        "Version": "1.6.0.0.19.1.2",
+        "Status": "active"
+    },
+    "15": {
+        "codePool": "core",
+        "Name": "Mage_CatalogRule",
+        "Version": "1.6.0.3",
+        "Status": "active"
+    },
+    "16": {
+        "codePool": "core",
+        "Name": "Mage_CatalogIndex",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "17": {
+        "codePool": "core",
+        "Name": "Mage_CatalogSearch",
+        "Version": "1.8.2.0",
+        "Status": "active"
+    },
+    "18": {
+        "codePool": "core",
+        "Name": "Mage_Payment",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "19": {
+        "codePool": "core",
+        "Name": "Mage_Sales",
+        "Version": "1.6.0.9",
+        "Status": "active"
+    },
+    "20": {
+        "codePool": "core",
+        "Name": "Mage_CatalogInventory",
+        "Version": "1.6.0.0.2",
+        "Status": "active"
+    },
+    "21": {
+        "codePool": "core",
+        "Name": "Mage_Shipping",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "22": {
+        "codePool": "core",
+        "Name": "Mage_SalesRule",
+        "Version": "1.6.0.3",
+        "Status": "active"
+    },
+    "23": {
+        "codePool": "core",
+        "Name": "Mage_Usa",
+        "Version": "1.6.0.3",
+        "Status": "active"
+    },
+    "24": {
+        "codePool": "core",
+        "Name": "Mage_Paygate",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "25": {
+        "codePool": "core",
+        "Name": "Mage_Checkout",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "26": {
+        "codePool": "core",
+        "Name": "Mage_Backup",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "27": {
+        "codePool": "core",
+        "Name": "Mage_Paypal",
+        "Version": "1.6.0.6",
+        "Status": "active"
+    },
+    "28": {
+        "codePool": "core",
+        "Name": "Mage_Poll",
+        "Version": "1.6.0.1",
+        "Status": "active"
+    },
+    "29": {
+        "codePool": "core",
+        "Name": "Mage_GoogleCheckout",
+        "Version": "1.6.0.1",
+        "Status": "active"
+    },
+    "30": {
+        "codePool": "core",
+        "Name": "Mage_Log",
+        "Version": "1.6.1.1",
+        "Status": "active"
+    },
+    "31": {
+        "codePool": "core",
+        "Name": "Mage_Review",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "32": {
+        "codePool": "core",
+        "Name": "Mage_Rating",
+        "Version": "1.6.0.1",
+        "Status": "active"
+    },
+    "33": {
+        "codePool": "core",
+        "Name": "Mage_Widget",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "34": {
+        "codePool": "core",
+        "Name": "Mage_Tag",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "35": {
+        "codePool": "core",
+        "Name": "Mage_Reports",
+        "Version": "1.6.0.0.1",
+        "Status": "active"
+    },
+    "36": {
+        "codePool": "core",
+        "Name": "Mage_GoogleAnalytics",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "37": {
+        "codePool": "core",
+        "Name": "Mage_Tax",
+        "Version": "1.6.0.4",
+        "Status": "active"
+    },
+    "38": {
+        "codePool": "core",
+        "Name": "Mage_Wishlist",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "39": {
+        "codePool": "core",
+        "Name": "Mage_PaypalUk",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "40": {
+        "codePool": "core",
+        "Name": "Mage_Media",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "41": {
+        "codePool": "core",
+        "Name": "Mage_GiftMessage",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "42": {
+        "codePool": "core",
+        "Name": "Mage_Contacts",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "43": {
+        "codePool": "core",
+        "Name": "Mage_Sendfriend",
+        "Version": "1.6.0.1",
+        "Status": "active"
+    },
+    "44": {
+        "codePool": "core",
+        "Name": "Mage_Sitemap",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "45": {
+        "codePool": "core",
+        "Name": "Mage_Rss",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "46": {
+        "codePool": "core",
+        "Name": "Mage_ProductAlert",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "47": {
+        "codePool": "core",
+        "Name": "Mage_Api",
+        "Version": "1.6.0.1",
+        "Status": "active"
+    },
+    "48": {
+        "codePool": "core",
+        "Name": "Mage_Oauth",
+        "Version": "1.0.0.0",
+        "Status": "active"
+    },
+    "49": {
+        "codePool": "core",
+        "Name": "Mage_Authorizenet",
+        "Version": "1.5.0.0",
+        "Status": "active"
+    },
+    "50": {
+        "codePool": "community",
+        "Name": "Mage_BankPayment",
+        "Version": "0.2.2",
+        "Status": "inactive"
+    },
+    "51": {
+        "codePool": "core",
+        "Name": "Mage_Bundle",
+        "Version": "1.6.0.0.1",
+        "Status": "active"
+    },
+    "52": {
+        "codePool": "core",
+        "Name": "Mage_Captcha",
+        "Version": "1.7.0.0.0",
+        "Status": "active"
+    },
+    "53": {
+        "codePool": "core",
+        "Name": "Mage_Centinel",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "54": {
+        "codePool": "core",
+        "Name": "Mage_Compiler",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "55": {
+        "codePool": "core",
+        "Name": "Mage_ConfigurableSwatches",
+        "Version": "1.3.1",
+        "Status": "active"
+    },
+    "56": {
+        "codePool": "core",
+        "Name": "Mage_Connect",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "57": {
+        "codePool": "core",
+        "Name": "Mage_Newsletter",
+        "Version": "1.6.0.2",
+        "Status": "active"
+    },
+    "58": {
+        "codePool": "core",
+        "Name": "Mage_Downloadable",
+        "Version": "1.6.0.0.2",
+        "Status": "active"
+    },
+    "59": {
+        "codePool": "core",
+        "Name": "Mage_ImportExport",
+        "Version": "1.6.0.2",
+        "Status": "active"
+    },
+    "60": {
+        "codePool": "core",
+        "Name": "Mage_Api2",
+        "Version": "1.0.0.0",
+        "Status": "active"
+    },
+    "61": {
+        "codePool": "core",
+        "Name": "Mage_Ogone",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "62": {
+        "codePool": "core",
+        "Name": "Mage_Persistent",
+        "Version": "1.0.0.0",
+        "Status": "active"
+    },
+    "63": {
+        "codePool": "core",
+        "Name": "Mage_Weee",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "64": {
+        "codePool": "core",
+        "Name": "Mage_CurrencySymbol",
+        "Version": "1.0.0.0.0",
+        "Status": "active"
+    },
+    "65": {
+        "codePool": "core",
+        "Name": "Mage_XmlConnect",
+        "Version": "",
+        "Status": "inactive"
+    },
+    "66": {
+        "codePool": "community",
+        "Name": "Adyen_Payment",
+        "Version": "2.5.0",
+        "Status": "active"
+    },
+    "67": {
+        "codePool": "core",
+        "Name": "Enterprise_SalesArchive",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "68": {
+        "codePool": "community",
+        "Name": "Aoe_CacheCleaner",
+        "Version": "0.1.1",
+        "Status": "active"
+    },
+    "69": {
+        "codePool": "community",
+        "Name": "Aoe_CacheRefresh",
+        "Version": "0.0.1",
+        "Status": "active"
+    },
+    "70": {
+        "codePool": "community",
+        "Name": "Aoe_ClassPathCache",
+        "Version": "0.5.2",
+        "Status": "active"
+    },
+    "71": {
+        "codePool": "community",
+        "Name": "Aoe_DbRetry",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "72": {
+        "codePool": "local",
+        "Name": "Aoe_Eav",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "73": {
+        "codePool": "community",
+        "Name": "Aoe_Profiler",
+        "Version": "0.4.0",
+        "Status": "active"
+    },
+    "74": {
+        "codePool": "community",
+        "Name": "Aoe_Scheduler",
+        "Version": "1.3.1",
+        "Status": "active"
+    },
+    "75": {
+        "codePool": "community",
+        "Name": "Aoe_TemplateHints",
+        "Version": "0.4.3",
+        "Status": "active"
+    },
+    "76": {
+        "codePool": "local",
+        "Name": "Aschroder_SMTPPro",
+        "Version": "2.0.7",
+        "Status": "active"
+    },
+    "77": {
+        "codePool": "community",
+        "Name": "AvS_AdminNotificationAdvanced",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "78": {
+        "codePool": "community",
+        "Name": "AvS_FastSimpleImport",
+        "Version": "0.6.4",
+        "Status": "active"
+    },
+    "79": {
+        "codePool": "community",
+        "Name": "AvS_ScopeHint",
+        "Version": "0.6.0",
+        "Status": "active"
+    },
+    "80": {
+        "codePool": "community",
+        "Name": "Bubble_AdminTheme",
+        "Version": "1.0.0",
+        "Status": "active"
+    },
+    "81": {
+        "codePool": "community",
+        "Name": "Bubble_ConfigNav",
+        "Version": "1.0.0",
+        "Status": "active"
+    },
+    "82": {
+        "codePool": "community",
+        "Name": "Clean_SqlReports",
+        "Version": "0.1.2",
+        "Status": "active"
+    },
+    "83": {
+        "codePool": "community",
+        "Name": "Cm_RedisSession",
+        "Version": "",
+        "Status": "inactive"
+    },
+    "84": {
+        "codePool": "community",
+        "Name": "Creare_DynamicSitemap",
+        "Version": "2.0.2",
+        "Status": "active"
+    },
+    "85": {
+        "codePool": "local",
+        "Name": "Dealer4dealer_Exactonline",
+        "Version": "1.1.7",
+        "Status": "active"
+    },
+    "86": {
+        "codePool": "local",
+        "Name": "Dealer4dealer_Syncinfo",
+        "Version": "",
+        "Status": "active"
+    },
+    "87": {
+        "codePool": "community",
+        "Name": "Dotdigitalgroup_Email",
+        "Version": "5.1.0",
+        "Status": "active"
+    },
+    "88": {
+        "codePool": "community",
+        "Name": "Dotdigitalgroup_Mailcheck",
+        "Version": "1.0.0",
+        "Status": "active"
+    },
+    "89": {
+        "codePool": "community",
+        "Name": "Easylife_Translation",
+        "Version": "1.0.0",
+        "Status": "active"
+    },
+    "90": {
+        "codePool": "community",
+        "Name": "EcomDev_CheckItOut",
+        "Version": "0.1.1",
+        "Status": "active"
+    },
+    "91": {
+        "codePool": "core",
+        "Name": "Enterprise_AdminGws",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "92": {
+        "codePool": "core",
+        "Name": "Enterprise_Customer",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "93": {
+        "codePool": "core",
+        "Name": "Enterprise_Bundle",
+        "Version": "1.13.0.0",
+        "Status": "active"
+    },
+    "94": {
+        "codePool": "core",
+        "Name": "Enterprise_Mview",
+        "Version": "1.12.0.2",
+        "Status": "active"
+    },
+    "95": {
+        "codePool": "core",
+        "Name": "Enterprise_CatalogEvent",
+        "Version": "1.11.1.0",
+        "Status": "active"
+    },
+    "96": {
+        "codePool": "core",
+        "Name": "Enterprise_Index",
+        "Version": "1.13.0.1",
+        "Status": "active"
+    },
+    "97": {
+        "codePool": "core",
+        "Name": "Enterprise_WebsiteRestriction",
+        "Version": "1.11.0.0.1",
+        "Status": "active"
+    },
+    "98": {
+        "codePool": "core",
+        "Name": "Enterprise_UrlRewrite",
+        "Version": "1.12.0.13",
+        "Status": "active"
+    },
+    "99": {
+        "codePool": "core",
+        "Name": "Enterprise_Checkout",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "100": {
+        "codePool": "core",
+        "Name": "Enterprise_Cms",
+        "Version": "",
+        "Status": "inactive"
+    },
+    "101": {
+        "codePool": "core",
+        "Name": "Enterprise_CustomerSegment",
+        "Version": "1.11.0.0.4",
+        "Status": "active"
+    },
+    "102": {
+        "codePool": "core",
+        "Name": "Enterprise_CustomerBalance",
+        "Version": "1.11.0.1",
+        "Status": "active"
+    },
+    "103": {
+        "codePool": "core",
+        "Name": "Enterprise_Banner",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "104": {
+        "codePool": "core",
+        "Name": "Enterprise_Eav",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "105": {
+        "codePool": "core",
+        "Name": "Enterprise_Enterprise",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "106": {
+        "codePool": "core",
+        "Name": "Enterprise_GiftCardAccount",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "107": {
+        "codePool": "core",
+        "Name": "Enterprise_GiftCard",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "108": {
+        "codePool": "core",
+        "Name": "Enterprise_GiftRegistry",
+        "Version": "1.11.0.0.2",
+        "Status": "active"
+    },
+    "109": {
+        "codePool": "core",
+        "Name": "Enterprise_GiftWrapping",
+        "Version": "1.11.0.0.1",
+        "Status": "active"
+    },
+    "110": {
+        "codePool": "core",
+        "Name": "Enterprise_GoogleAnalyticsUniversal",
+        "Version": "0.0.1",
+        "Status": "active"
+    },
+    "111": {
+        "codePool": "core",
+        "Name": "Enterprise_ImportExport",
+        "Version": "1.11.0.1",
+        "Status": "active"
+    },
+    "112": {
+        "codePool": "core",
+        "Name": "Enterprise_CatalogInventory",
+        "Version": "1.13.0.0",
+        "Status": "active"
+    },
+    "113": {
+        "codePool": "core",
+        "Name": "Enterprise_CatalogPermissions",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "114": {
+        "codePool": "core",
+        "Name": "Enterprise_License",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "115": {
+        "codePool": "core",
+        "Name": "Enterprise_Log",
+        "Version": "1.14.2.1",
+        "Status": "active"
+    },
+    "116": {
+        "codePool": "core",
+        "Name": "Enterprise_Logging",
+        "Version": "1.11.0.1",
+        "Status": "active"
+    },
+    "117": {
+        "codePool": "core",
+        "Name": "Enterprise_Catalog",
+        "Version": "1.13.0.9",
+        "Status": "active"
+    },
+    "118": {
+        "codePool": "core",
+        "Name": "Enterprise_PageCache",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "119": {
+        "codePool": "core",
+        "Name": "Enterprise_Pbridge",
+        "Version": "1.8.0.0.1",
+        "Status": "active"
+    },
+    "120": {
+        "codePool": "core",
+        "Name": "Enterprise_Pci",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "121": {
+        "codePool": "core",
+        "Name": "Enterprise_Persistent",
+        "Version": "1.0.0.0",
+        "Status": "active"
+    },
+    "122": {
+        "codePool": "core",
+        "Name": "Enterprise_PricePermissions",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "123": {
+        "codePool": "core",
+        "Name": "Enterprise_PromotionPermissions",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "124": {
+        "codePool": "core",
+        "Name": "Enterprise_Reminder",
+        "Version": "1.11.0.1",
+        "Status": "active"
+    },
+    "125": {
+        "codePool": "core",
+        "Name": "Enterprise_Reward",
+        "Version": "1.11.0.2",
+        "Status": "active"
+    },
+    "126": {
+        "codePool": "core",
+        "Name": "Enterprise_Rma",
+        "Version": "1.11.0.8",
+        "Status": "active"
+    },
+    "127": {
+        "codePool": "community",
+        "Name": "Adyen_Subscription",
+        "Version": "1.0.2",
+        "Status": "active"
+    },
+    "128": {
+        "codePool": "core",
+        "Name": "Enterprise_Search",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "129": {
+        "codePool": "core",
+        "Name": "Enterprise_Invitation",
+        "Version": "1.11.0.0",
+        "Status": "active"
+    },
+    "130": {
+        "codePool": "core",
+        "Name": "Enterprise_Support",
+        "Version": "1.13.1.0",
+        "Status": "active"
+    },
+    "131": {
+        "codePool": "core",
+        "Name": "Enterprise_TargetRule",
+        "Version": "1.11.0.0.5",
+        "Status": "active"
+    },
+    "132": {
+        "codePool": "core",
+        "Name": "Enterprise_CatalogSearch",
+        "Version": "1.13.2.0",
+        "Status": "active"
+    },
+    "133": {
+        "codePool": "core",
+        "Name": "Enterprise_Staging",
+        "Version": "1.11.0.0.3",
+        "Status": "active"
+    },
+    "134": {
+        "codePool": "core",
+        "Name": "Enterprise_Wishlist",
+        "Version": "1.12.0.0",
+        "Status": "active"
+    },
+    "135": {
+        "codePool": "community",
+        "Name": "Ffm_AdminSortItems",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "136": {
+        "codePool": "community",
+        "Name": "Ffm_Adminpermissions",
+        "Version": "1.0.0",
+        "Status": "active"
+    },
+    "137": {
+        "codePool": "community",
+        "Name": "Ffm_Codebin",
+        "Version": "1.0.1",
+        "Status": "active"
+    },
+    "138": {
+        "codePool": "community",
+        "Name": "Mageplace_Freshdesk",
+        "Version": "1.0.0",
+        "Status": "active"
+    },
+    "139": {
+        "codePool": "community",
+        "Name": "Ffm_Freshdesk",
+        "Version": "1.0.0",
+        "Status": "active"
+    },
+    "140": {
+        "codePool": "community",
+        "Name": "Ffm_Nonpayment",
+        "Version": "0.2.7",
+        "Status": "active"
+    },
+    "141": {
+        "codePool": "community",
+        "Name": "Ffm_Orderoptionindicator",
+        "Version": "0.1.2",
+        "Status": "active"
+    },
+    "142": {
+        "codePool": "community",
+        "Name": "Ffm_Orderuserlabel",
+        "Version": "1.1.0",
+        "Status": "active"
+    },
+    "143": {
+        "codePool": "community",
+        "Name": "FireGento_Logger",
+        "Version": "1.4.1",
+        "Status": "active"
+    },
+    "144": {
+        "codePool": "community",
+        "Name": "Flagbit_ChangeAttributeSet",
+        "Version": "2.1.2",
+        "Status": "active"
+    },
+    "145": {
+        "codePool": "community",
+        "Name": "Flagbit_Faq",
+        "Version": "1.2.1",
+        "Status": "active"
+    },
+    "146": {
+        "codePool": "community",
+        "Name": "Fooman_Common",
+        "Version": "1.1.14",
+        "Status": "active"
+    },
+    "147": {
+        "codePool": "community",
+        "Name": "Fooman_TotalsSortingFix",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "148": {
+        "codePool": "community",
+        "Name": "Fooman_Surcharge",
+        "Version": "3.1.11",
+        "Status": "active"
+    },
+    "149": {
+        "codePool": "community",
+        "Name": "Growdevelopment_Storelocations",
+        "Version": "1.1.0",
+        "Status": "active"
+    },
+    "150": {
+        "codePool": null,
+        "Name": "depends",
+        "Version": "",
+        "Status": "inactive"
+    },
+    "151": {
+        "codePool": "local",
+        "Name": "Ho_BootstrapAjaxCart",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "152": {
+        "codePool": "local",
+        "Name": "Ho_Adminhtml",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "153": {
+        "codePool": "local",
+        "Name": "Innoexts_Core",
+        "Version": "1.2.0.0",
+        "Status": "active"
+    },
+    "154": {
+        "codePool": "local",
+        "Name": "Ho_Bootstrap",
+        "Version": "3.1.2",
+        "Status": "active"
+    },
+    "155": {
+        "codePool": "local",
+        "Name": "Ho_Address",
+        "Version": "0.9.0",
+        "Status": "active"
+    },
+    "156": {
+        "codePool": "local",
+        "Name": "Ho_Cache",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "157": {
+        "codePool": "local",
+        "Name": "Ho_Customer",
+        "Version": "0.3.0",
+        "Status": "active"
+    },
+    "158": {
+        "codePool": "local",
+        "Name": "Ho_DeleteOrder",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "159": {
+        "codePool": "local",
+        "Name": "Ho_EuroMail",
+        "Version": "0.2.0",
+        "Status": "active"
+    },
+    "160": {
+        "codePool": "local",
+        "Name": "Ho_Export",
+        "Version": "0.11.0",
+        "Status": "active"
+    },
+    "161": {
+        "codePool": "local",
+        "Name": "Innoexts_GeoCoder",
+        "Version": "1.2.1.0",
+        "Status": "active"
+    },
+    "162": {
+        "codePool": "local",
+        "Name": "Ho_Gallery",
+        "Version": "1.0.1",
+        "Status": "active"
+    },
+    "163": {
+        "codePool": "local",
+        "Name": "Ho_Handles",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "164": {
+        "codePool": "community",
+        "Name": "Ho_Import",
+        "Version": "1.6.0",
+        "Status": "active"
+    },
+    "165": {
+        "codePool": "community",
+        "Name": "Phoenix_BankPayment",
+        "Version": "1.1.0",
+        "Status": "active"
+    },
+    "166": {
+        "codePool": "local",
+        "Name": "Innoexts_GeoIp",
+        "Version": "1.2.1.0",
+        "Status": "active"
+    },
+    "167": {
+        "codePool": "local",
+        "Name": "Ho_OfflineMaintenance",
+        "Version": "2.0.0",
+        "Status": "active"
+    },
+    "168": {
+        "codePool": "community",
+        "Name": "Ho_Patches",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "169": {
+        "codePool": "local",
+        "Name": "Ho_Retargeting",
+        "Version": "0.2.0",
+        "Status": "active"
+    },
+    "170": {
+        "codePool": "local",
+        "Name": "Ho_Review",
+        "Version": "0.1.3",
+        "Status": "active"
+    },
+    "171": {
+        "codePool": "local",
+        "Name": "Ho_Setup",
+        "Version": "0.1.1",
+        "Status": "active"
+    },
+    "172": {
+        "codePool": "local",
+        "Name": "Ho_SimpleBundle",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "173": {
+        "codePool": "local",
+        "Name": "Innoexts_ShippingTablerate",
+        "Version": "1.2.0.0",
+        "Status": "active"
+    },
+    "174": {
+        "codePool": "local",
+        "Name": "Innoexts_CustomerLocator",
+        "Version": "1.2.1.0",
+        "Status": "active"
+    },
+    "175": {
+        "codePool": "local",
+        "Name": "Innoexts_Warehouse",
+        "Version": "1.2.2.0",
+        "Status": "active"
+    },
+    "176": {
+        "codePool": "local",
+        "Name": "Ho_AutoAddProducts",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "177": {
+        "codePool": "local",
+        "Name": "Parcelshipper_Paazl",
+        "Version": "1.2.8",
+        "Status": "active"
+    },
+    "178": {
+        "codePool": "local",
+        "Name": "Ho_FitForMe",
+        "Version": "0.24.0",
+        "Status": "active"
+    },
+    "179": {
+        "codePool": "local",
+        "Name": "Innoexts_WarehouseEnterprise",
+        "Version": "1.2.1.0",
+        "Status": "active"
+    },
+    "180": {
+        "codePool": "community",
+        "Name": "JR_CleverCms",
+        "Version": "2.1.3",
+        "Status": "active"
+    },
+    "181": {
+        "codePool": "local",
+        "Name": "Ffm_Contactprofile",
+        "Version": "0.2.0",
+        "Status": "active"
+    },
+    "182": {
+        "codePool": "local",
+        "Name": "Mana_Core",
+        "Version": "15.08.24.13",
+        "Status": "active"
+    },
+    "183": {
+        "codePool": "local",
+        "Name": "Mana_Admin",
+        "Version": "15.08.06.17",
+        "Status": "active"
+    },
+    "184": {
+        "codePool": "local",
+        "Name": "Mana_Page",
+        "Version": "15.08.07.07",
+        "Status": "active"
+    },
+    "185": {
+        "codePool": "local",
+        "Name": "Mana_Widget",
+        "Version": "13.01.07.15",
+        "Status": "active"
+    },
+    "186": {
+        "codePool": "local",
+        "Name": "ManaPage_AttributeOption",
+        "Version": "15.05.05.16",
+        "Status": "active"
+    },
+    "187": {
+        "codePool": "local",
+        "Name": "Mana_Db",
+        "Version": "15.01.29.22",
+        "Status": "active"
+    },
+    "188": {
+        "codePool": "local",
+        "Name": "Mana_Seo",
+        "Version": "15.09.04.10",
+        "Status": "active"
+    },
+    "189": {
+        "codePool": "local",
+        "Name": "Mana_Filters",
+        "Version": "15.07.17.01",
+        "Status": "active"
+    },
+    "190": {
+        "codePool": "local",
+        "Name": "Mana_Ajax",
+        "Version": "15.01.05.08",
+        "Status": "active"
+    },
+    "191": {
+        "codePool": "local",
+        "Name": "ManaPage_Bestseller",
+        "Version": "13.06.30.23",
+        "Status": "active"
+    },
+    "192": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterAdmin",
+        "Version": "15.08.06.17",
+        "Status": "active"
+    },
+    "193": {
+        "codePool": "local",
+        "Name": "Mana_AttributePage",
+        "Version": "15.08.07.07",
+        "Status": "active"
+    },
+    "194": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterAdvanced",
+        "Version": "15.08.06.17",
+        "Status": "active"
+    },
+    "195": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterCheckboxes",
+        "Version": "14.06.13.09",
+        "Status": "active"
+    },
+    "196": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterClear",
+        "Version": "14.06.13.09",
+        "Status": "active"
+    },
+    "197": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterColors",
+        "Version": "15.08.06.17",
+        "Status": "active"
+    },
+    "198": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterExpandCollapse",
+        "Version": "15.01.05.08",
+        "Status": "active"
+    },
+    "199": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterDropdown",
+        "Version": "14.06.13.09",
+        "Status": "active"
+    },
+    "200": {
+        "codePool": null,
+        "Name": "ManaPro_FilterAttributes",
+        "Version": "",
+        "Status": "inactive"
+    },
+    "201": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterGroup",
+        "Version": "15.01.05.08",
+        "Status": "active"
+    },
+    "202": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterHelp",
+        "Version": "15.04.20.22",
+        "Status": "active"
+    },
+    "203": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterAjax",
+        "Version": "15.06.08.23",
+        "Status": "active"
+    },
+    "204": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterRadios",
+        "Version": "14.03.14.17",
+        "Status": "active"
+    },
+    "205": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterShowMore",
+        "Version": "15.09.06.21",
+        "Status": "active"
+    },
+    "206": {
+        "codePool": "local",
+        "Name": "ManaPro_ProductCollections",
+        "Version": "12.11.02.11",
+        "Status": "active"
+    },
+    "207": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterSlider",
+        "Version": "14.06.13.09",
+        "Status": "active"
+    },
+    "208": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterSeoLinks",
+        "Version": "15.04.29.14",
+        "Status": "active"
+    },
+    "209": {
+        "codePool": null,
+        "Name": "Mana_InfiniteScrolling",
+        "Version": "",
+        "Status": "inactive"
+    },
+    "210": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterSuperSlider",
+        "Version": "15.08.12.15",
+        "Status": "active"
+    },
+    "211": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterTree",
+        "Version": "15.01.15.19",
+        "Status": "active"
+    },
+    "212": {
+        "codePool": "local",
+        "Name": "ManaPage_New",
+        "Version": "13.06.30.23",
+        "Status": "active"
+    },
+    "213": {
+        "codePool": "local",
+        "Name": "ManaPro_FilterPositioning",
+        "Version": "15.03.27.15",
+        "Status": "active"
+    },
+    "214": {
+        "codePool": "local",
+        "Name": "Mana_Sitemap",
+        "Version": "15.04.03.19",
+        "Status": "active"
+    },
+    "215": {
+        "codePool": "local",
+        "Name": "ManaPage_Sale",
+        "Version": "13.10.03.21",
+        "Status": "active"
+    },
+    "216": {
+        "codePool": "community",
+        "Name": "OnTap_Merchandiser",
+        "Version": "2.2.8",
+        "Status": "active"
+    },
+    "217": {
+        "codePool": "community",
+        "Name": "Openstream_CustomListing",
+        "Version": "0.1.1",
+        "Status": "active"
+    },
+    "218": {
+        "codePool": "local",
+        "Name": "Ho_Kpi",
+        "Version": "0.5.0",
+        "Status": "active"
+    },
+    "219": {
+        "codePool": "local",
+        "Name": "Ho_Invoice",
+        "Version": "0.1.5",
+        "Status": "active"
+    },
+    "220": {
+        "codePool": "community",
+        "Name": "Phoenix_Moneybookers",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "221": {
+        "codePool": "community",
+        "Name": "RicoNeitzel_VertNav",
+        "Version": "0.4.3",
+        "Status": "active"
+    },
+    "222": {
+        "codePool": "community",
+        "Name": "SSE_AclReload",
+        "Version": "0.1.1",
+        "Status": "active"
+    },
+    "223": {
+        "codePool": "community",
+        "Name": "SchumacherFM_Markdown",
+        "Version": "1.0.0",
+        "Status": "active"
+    },
+    "224": {
+        "codePool": "community",
+        "Name": "Spranks_RefreshBlockHtmlCache",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "225": {
+        "codePool": "community",
+        "Name": "VladimirPopov_WebForms",
+        "Version": "2.6.3",
+        "Status": "active"
+    },
+    "226": {
+        "codePool": "community",
+        "Name": "WBL_Minify",
+        "Version": "0.1.0",
+        "Status": "active"
+    },
+    "227": {
+        "codePool": "community",
+        "Name": "Wee_DeveloperToolbar",
+        "Version": "2.0.0.1",
+        "Status": "active"
+    },
+    "228": {
+        "codePool": "community",
+        "Name": "Yireo_EmailTester",
+        "Version": "1.0.30",
+        "Status": "active"
+    }
+}

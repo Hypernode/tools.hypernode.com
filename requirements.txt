@@ -1,0 +1,5 @@
+bottle
+redis
+-e https://github.com/paulfitz/gspread/archive/read_public_published_spreadsheets.zip
+# for readme.md => index.html
+grip

@@ -1,0 +1,488 @@
+{
+    "0": {
+        "codePool": "core",
+        "Name": "Mage_Core",
+        "Version": "1.6.0.4",
+        "Status": "active"
+    },
+    "1": {
+        "codePool": "core",
+        "Name": "Mage_Eav",
+        "Version": "1.6.0.1",
+        "Status": "active"
+    },
+    "2": {
+        "codePool": "core",
+        "Name": "Mage_Page",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "3": {
+        "codePool": "core",
+        "Name": "Mage_Install",
+        "Version": "0.7.0",
+        "Status": "active"
+    },
+    "4": {
+        "codePool": "core",
+        "Name": "Mage_Admin",
+        "Version": "1.6.1.1",
+        "Status": "active"
+    },
+    "5": {
+        "codePool": "core",
+        "Name": "Mage_Rule",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "6": {
+        "codePool": "core",
+        "Name": "Mage_Adminhtml",
+        "Version": "0.7.1",
+        "Status": "active"
+    },
+    "7": {
+        "codePool": "core",
+        "Name": "Mage_AdminNotification",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "8": {
+        "codePool": "core",
+        "Name": "Mage_Cron",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "9": {
+        "codePool": "core",
+        "Name": "Mage_Directory",
+        "Version": "1.6.0.2",
+        "Status": "active"
+    },
+    "10": {
+        "codePool": "core",
+        "Name": "Mage_Dataflow",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "11": {
+        "codePool": "core",
+        "Name": "Mage_Cms",
+        "Version": "1.6.0.0.2",
+        "Status": "active"
+    },
+    "12": {
+        "codePool": "core",
+        "Name": "Mage_Index",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "13": {
+        "codePool": "core",
+        "Name": "Mage_Customer",
+        "Version": "1.6.2.0.3",
+        "Status": "active"
+    },
+    "14": {
+        "codePool": "core",
+        "Name": "Mage_Catalog",
+        "Version": "1.6.0.0.19",
+        "Status": "active"
+    },
+    "15": {
+        "codePool": "core",
+        "Name": "Mage_CatalogRule",
+        "Version": "1.6.0.3",
+        "Status": "active"
+    },
+    "16": {
+        "codePool": "core",
+        "Name": "Mage_CatalogIndex",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "17": {
+        "codePool": "core",
+        "Name": "Mage_CatalogSearch",
+        "Version": "1.8.2.0",
+        "Status": "active"
+    },
+    "18": {
+        "codePool": "core",
+        "Name": "Mage_Payment",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "19": {
+        "codePool": "core",
+        "Name": "Mage_Sales",
+        "Version": "1.6.0.8",
+        "Status": "active"
+    },
+    "20": {
+        "codePool": "core",
+        "Name": "Mage_CatalogInventory",
+        "Version": "1.6.0.0.2",
+        "Status": "active"
+    },
+    "21": {
+        "codePool": "core",
+        "Name": "Mage_Shipping",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "22": {
+        "codePool": "core",
+        "Name": "Mage_SalesRule",
+        "Version": "1.6.0.3",
+        "Status": "active"
+    },
+    "23": {
+        "codePool": "core",
+        "Name": "Mage_Usa",
+        "Version": "1.6.0.3",
+        "Status": "active"
+    },
+    "24": {
+        "codePool": "core",
+        "Name": "Mage_Paygate",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "25": {
+        "codePool": "core",
+        "Name": "Mage_Checkout",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "26": {
+        "codePool": "core",
+        "Name": "Mage_Backup",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "27": {
+        "codePool": "core",
+        "Name": "Mage_Paypal",
+        "Version": "1.6.0.5",
+        "Status": "active"
+    },
+    "28": {
+        "codePool": "core",
+        "Name": "Mage_Poll",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "29": {
+        "codePool": "core",
+        "Name": "Mage_GoogleCheckout",
+        "Version": "1.6.0.1",
+        "Status": "active"
+    },
+    "30": {
+        "codePool": "core",
+        "Name": "Mage_Log",
+        "Version": "1.6.1.0",
+        "Status": "active"
+    },
+    "31": {
+        "codePool": "core",
+        "Name": "Mage_Review",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "32": {
+        "codePool": "core",
+        "Name": "Mage_Rating",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "33": {
+        "codePool": "core",
+        "Name": "Mage_Widget",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "34": {
+        "codePool": "core",
+        "Name": "Mage_Tag",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "35": {
+        "codePool": "core",
+        "Name": "Mage_Reports",
+        "Version": "1.6.0.0.1",
+        "Status": "active"
+    },
+    "36": {
+        "codePool": "core",
+        "Name": "Mage_GoogleAnalytics",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "37": {
+        "codePool": "core",
+        "Name": "Mage_Tax",
+        "Version": "1.6.0.4",
+        "Status": "active"
+    },
+    "38": {
+        "codePool": "core",
+        "Name": "Mage_Wishlist",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "39": {
+        "codePool": "core",
+        "Name": "Mage_PaypalUk",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "40": {
+        "codePool": "core",
+        "Name": "Mage_Media",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "41": {
+        "codePool": "core",
+        "Name": "Mage_GiftMessage",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "42": {
+        "codePool": "core",
+        "Name": "Mage_Contacts",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "43": {
+        "codePool": "core",
+        "Name": "Mage_Sendfriend",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "44": {
+        "codePool": "core",
+        "Name": "Mage_Sitemap",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "45": {
+        "codePool": "core",
+        "Name": "Mage_Rss",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "46": {
+        "codePool": "core",
+        "Name": "Mage_ProductAlert",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "47": {
+        "codePool": "core",
+        "Name": "Mage_Api",
+        "Version": "1.6.0.1",
+        "Status": "active"
+    },
+    "48": {
+        "codePool": "core",
+        "Name": "Mage_Oauth",
+        "Version": "1.0.0.0",
+        "Status": "active"
+    },
+    "49": {
+        "codePool": "core",
+        "Name": "Mage_Authorizenet",
+        "Version": "1.5.0.0",
+        "Status": "active"
+    },
+    "50": {
+        "codePool": "core",
+        "Name": "Mage_Bundle",
+        "Version": "1.6.0.0.1",
+        "Status": "active"
+    },
+    "51": {
+        "codePool": "core",
+        "Name": "Mage_Captcha",
+        "Version": "1.7.0.0.0",
+        "Status": "active"
+    },
+    "52": {
+        "codePool": "core",
+        "Name": "Mage_Centinel",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "53": {
+        "codePool": "core",
+        "Name": "Mage_Compiler",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "54": {
+        "codePool": "core",
+        "Name": "Mage_Connect",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "55": {
+        "codePool": "core",
+        "Name": "Mage_Newsletter",
+        "Version": "1.6.0.1",
+        "Status": "active"
+    },
+    "56": {
+        "codePool": "core",
+        "Name": "Mage_Downloadable",
+        "Version": "1.6.0.0.2",
+        "Status": "active"
+    },
+    "57": {
+        "codePool": "core",
+        "Name": "Mage_ImportExport",
+        "Version": "1.6.0.2",
+        "Status": "active"
+    },
+    "58": {
+        "codePool": "core",
+        "Name": "Mage_Api2",
+        "Version": "1.0.0.0",
+        "Status": "active"
+    },
+    "59": {
+        "codePool": "core",
+        "Name": "Mage_PageCache",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "60": {
+        "codePool": "core",
+        "Name": "Mage_Persistent",
+        "Version": "1.0.0.0",
+        "Status": "active"
+    },
+    "61": {
+        "codePool": "core",
+        "Name": "Mage_Weee",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "62": {
+        "codePool": "core",
+        "Name": "Mage_CurrencySymbol",
+        "Version": "1.0.0.0.0",
+        "Status": "active"
+    },
+    "63": {
+        "codePool": "core",
+        "Name": "Mage_XmlConnect",
+        "Version": "1.6.0.0.1",
+        "Status": "active"
+    },
+    "64": {
+        "codePool": "community",
+        "Name": "Aoe_Scheduler",
+        "Version": "0.4.3",
+        "Status": "active"
+    },
+    "65": {
+        "codePool": "community",
+        "Name": "Aoe_TemplateHints",
+        "Version": "0.3.0",
+        "Status": "active"
+    },
+    "67": {
+        "codePool": "community",
+        "Name": "CoScale_Monitor",
+        "Version": "0.11.0",
+        "Status": "active"
+    },
+    "68": {
+        "codePool": "community",
+        "Name": "Hans2103_HideCompare",
+        "Version": "1.0",
+        "Status": "active"
+    },
+    "69": {
+        "codePool": "community",
+        "Name": "Lesti_Fpc",
+        "Version": "1.2.0",
+        "Status": "active"
+    },
+    "70": {
+        "codePool": "local",
+        "Name": "Magestore_Adminneworderemail",
+        "Version": "1.1.2",
+        "Status": "active"
+    },
+    "71": {
+        "codePool": "local",
+        "Name": "Magestore_Magenotification",
+        "Version": "0.1.3",
+        "Status": "active"
+    },
+    "72": {
+        "codePool": "local",
+        "Name": "Mirasvit_Misspell",
+        "Version": "1.2.4",
+        "Status": "active"
+    },
+    "73": {
+        "codePool": "local",
+        "Name": "Mirasvit_MstCore",
+        "Version": "1.0.8",
+        "Status": "active"
+    },
+    "74": {
+        "codePool": "local",
+        "Name": "Mirasvit_SearchAutocomplete",
+        "Version": "1.1.9",
+        "Status": "active"
+    },
+    "75": {
+        "codePool": "local",
+        "Name": "Mirasvit_SearchIndex",
+        "Version": "1.0.5.1",
+        "Status": "active"
+    },
+    "76": {
+        "codePool": "local",
+        "Name": "Mirasvit_SearchLandingPage",
+        "Version": "1.0.0",
+        "Status": "active"
+    },
+    "77": {
+        "codePool": "local",
+        "Name": "Mirasvit_SearchSphinx",
+        "Version": "2.3.1",
+        "Status": "active"
+    },
+    "78": {
+        "codePool": "community",
+        "Name": "Mollie_Mpm",
+        "Version": "4.1.5",
+        "Status": "active"
+    },
+    "79": {
+        "codePool": "community",
+        "Name": "Phoenix_Moneybookers",
+        "Version": "1.6.0.0",
+        "Status": "active"
+    },
+    "80": {
+        "codePool": "community",
+        "Name": "TIG_PostNL",
+        "Version": "1.3.1",
+        "Status": "active"
+    },
+    "81": {
+        "codePool": "community",
+        "Name": "Yireo_DeleteAnyOrder",
+        "Version": "0.11.2",
+        "Status": "active"
+    }
+}
