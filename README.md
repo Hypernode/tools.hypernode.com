@@ -22,7 +22,7 @@ Example usage:
 ```
 $ n98-magerun sys:modules:list --format=json | \
     curl -d @- -X POST -H "Content-Type: application/json" \
-    http://tools.hypernode.com/modules/magerun.txt
+    https://tools.hypernode.com/modules/magerun.txt
 
 Name                             Current      Latest
 ==============================================================
@@ -52,14 +52,14 @@ Magento's Piotr Kaminski maintains an [excellent spreadsheet](https://docs.googl
 Use this API to query it:
 
 ```
-$ curl http://tools.hypernode.com/patches/community/1.9.2.0
+$ curl https://tools.hypernode.com/patches/community/1.9.2.0
 {"required": [
         "SUPEE-6482",
         "SUPEE-6788",
         "SUPEE-7405"
 ]}
 
-$ curl http://tools.hypernode.com/patches/enterprise/1.10.0.1
+$ curl https://tools.hypernode.com/patches/enterprise/1.10.0.1
 {"required": [
         "SUPEE-1533",
         "SUPEE-2750",
