@@ -1,4 +1,7 @@
+# auto gen by grip
+static/index.html
 .git/
 .idea/
+*.pyc
 __pycache__/
 magerundumps/
