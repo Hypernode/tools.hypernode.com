@@ -3,6 +3,7 @@
 import json
 import os
 import gspread  # this is a modified version! see requirements.txt
+import logging
 
 SPREADSHEET_ID = '1MTbU9Bq130zrrsJwLIB9d8qnGfYZnkm4jBlfNaBF19M'
 PATH = os.path.dirname(os.path.realpath(__file__))
@@ -31,7 +32,8 @@ def find_patches_for_row(row, patches):
         elif cell.startswith('Use '):
             patch = cell[4:]
         else:
-            raise RuntimeError("Unsupported status: %s" % cell)
+            logging.warning("Unsupported status: %s" % cell)
+            continue
 
         required_patches.add(patch)
     return sorted(required_patches)
