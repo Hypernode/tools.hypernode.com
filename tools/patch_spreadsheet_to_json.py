@@ -1,15 +1,13 @@
 #!/usr/bin/env python
 
-
 import json
 import os
-
 import gspread  # this is a modified version! see requirements.txt
 
 SPREADSHEET_ID = '1MTbU9Bq130zrrsJwLIB9d8qnGfYZnkm4jBlfNaBF19M'
 PATH = os.path.dirname(os.path.realpath(__file__))
 
-debug = True
+debug = False
 
 if debug:
     import requests_cache
@@ -24,7 +22,9 @@ if debug:
 def find_patches_for_row(row, patches):
     required_patches = set()
     for col_id, cell in enumerate(row):
-        if cell in ('', 'Not Required', 'Not Supported', 'Under investigation'):
+        if cell in ('', 'Not Required', 'Not Supported', 'Under investigation', 'Ask support'):
+            continue
+        elif cell.startswith('Replaced by'):
             continue
         elif cell == 'Required':
             patch = patches[col_id]
@@ -68,5 +68,5 @@ assert 'SUPEE-3762' not in giant_blob['Community']['1.4.0.0']
 
 #print(json.dumps(giant_blob, indent=2))
 
-with open(PATH + '/required_magento_patches.json', 'w') as f:
+with open(PATH + '/../fixtures/required_magento_patches.json', 'w') as f:
     f.write(json.dumps(giant_blob, indent=2))
