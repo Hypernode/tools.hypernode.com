@@ -35,7 +35,13 @@ def find_patches_for_row(row, patches):
             logging.warning("Unsupported status: %s" % cell)
             continue
 
+        # remove patch version number if any
+        if ' v' in patch.lower():
+            patch = patch.split()[0]
+
+        # set so unique entries only
         required_patches.add(patch)
+
     return sorted(required_patches)
 
 
@@ -65,10 +71,12 @@ assert 'SUPEE-7405' not in giant_blob['Enterprise']['1.6.x']
 assert 'SUPEE-6788' in giant_blob['Enterprise']['1.6.x']
 assert 'SUPEE-6079' not in giant_blob['Enterprise']['1.14.2.0']
 
+assert 'SUPEE-7405 v1.1' not in giant_blob['Enterprise']['1.14.2.1']
+
 assert 'SUPEE-7405' in giant_blob['Community']['1.4.0.0']
 assert 'SUPEE-3762' not in giant_blob['Community']['1.4.0.0']
 
 #print(json.dumps(giant_blob, indent=2))
 
-with open(PATH + '/../fixtures/required_magento_patches.json', 'w') as f:
+with open(PATH + '/../static/required_magento_patches.json', 'w') as f:
     f.write(json.dumps(giant_blob, indent=2))

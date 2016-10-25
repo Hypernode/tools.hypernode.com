@@ -1,6 +1,15 @@
 {
   "Community": {
-    "1.9.0.0": [
+    "1.9.1.0": [
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.9.0.1": [
       "SUPEE-1533",
       "SUPEE-5344",
       "SUPEE-5994",
@@ -8,23 +17,7 @@
       "SUPEE-6482",
       "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.7.0.1": [
-      "APPSEC-212",
-      "SUPEE-1533",
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.9.2.1": [
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
+      "SUPEE-8788"
     ],
     "1.5.1.0": [
       "APPSEC-212",
@@ -35,7 +28,7 @@
       "SUPEE-6482",
       "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1"
+      "SUPEE-8788"
     ],
     "1.4.1.1": [
       "APPSEC-212",
@@ -45,124 +38,7 @@
       "SUPEE-6285",
       "SUPEE-6482",
       "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.6.2.0": [
-      "APPSEC-212",
-      "SUPEE-1533",
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.8.0.0": [
-      "APPSEC-212",
-      "SUPEE-1533",
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.4.2.0": [
-      "APPSEC-212",
-      "SUPEE-1533",
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.4.1.0": [
-      "APPSEC-212",
-      "SUPEE-1533",
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.4.0.1": [
-      "APPSEC-212",
-      "SUPEE-1533",
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.6.0.0": [
-      "APPSEC-212",
-      "SUPEE-1533",
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.9.1.0": [
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.5.0.1": [
-      "APPSEC-212",
-      "SUPEE-1533",
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.9.0.1": [
-      "SUPEE-1533",
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.7.0.2": [
-      "APPSEC-212",
-      "SUPEE-1533",
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.9.2.0": [
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.9.2.3": [
-      "SUPEE-7405 v1.1"
+      "SUPEE-7405"
     ],
     "1.7.0.0": [
       "APPSEC-212",
@@ -173,9 +49,14 @@
       "SUPEE-6482",
       "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1"
+      "SUPEE-8788"
     ],
-    "1.4.0.0": [
+    "1.9.2.1": [
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.7.0.2": [
       "APPSEC-212",
       "SUPEE-1533",
       "SUPEE-5344",
@@ -184,11 +65,39 @@
       "SUPEE-6482",
       "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1"
+      "SUPEE-8788"
     ],
-    "1.9.2.2": [
+    "1.4.0.1": [
+      "APPSEC-212",
+      "SUPEE-1533",
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405"
+    ],
+    "1.8.0.0": [
+      "APPSEC-212",
+      "SUPEE-1533",
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1"
+      "SUPEE-8788"
+    ],
+    "1.5.0.1": [
+      "APPSEC-212",
+      "SUPEE-1533",
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
     ],
     "1.9.1.1": [
       "SUPEE-5994",
@@ -196,10 +105,16 @@
       "SUPEE-6482",
       "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1"
+      "SUPEE-8788"
     ],
-    "1.6.1.0": [
-      "APPSEC-212",
+    "1.9.2.2": [
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.9.2.4": [
+      "SUPEE-8788"
+    ],
+    "1.9.0.0": [
       "SUPEE-1533",
       "SUPEE-5344",
       "SUPEE-5994",
@@ -207,9 +122,8 @@
       "SUPEE-6482",
       "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1"
+      "SUPEE-8788"
     ],
-    "1.9.2.4": [],
     "1.8.1.0": [
       "APPSEC-212",
       "SUPEE-1533",
@@ -219,42 +133,105 @@
       "SUPEE-6482",
       "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ]
-  },
-  "Enterprise": {
-    "1.10.0.2": [
-      "SUPEE-1533",
-      "SUPEE-2750",
-      "SUPEE-5388",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1",
-      "Zend Security Upgrade"
+      "SUPEE-8788"
     ],
-    "1.9.0.0": [
-      "SUPEE-1533",
-      "SUPEE-2750",
-      "SUPEE-5388",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
+    "1.9.2.3": [
       "SUPEE-7405",
-      "SUPEE-7405 v1.1",
-      "Zend Security Upgrade"
+      "SUPEE-8788"
     ],
-    "1.14.0.1": [
+    "1.9.3.0": [],
+    "1.6.1.0": [
+      "APPSEC-212",
+      "SUPEE-1533",
       "SUPEE-5344",
       "SUPEE-5994",
       "SUPEE-6285",
       "SUPEE-6482",
       "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1"
+      "SUPEE-8788"
+    ],
+    "1.7.0.1": [
+      "APPSEC-212",
+      "SUPEE-1533",
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.4.1.0": [
+      "APPSEC-212",
+      "SUPEE-1533",
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405"
+    ],
+    "1.4.2.0": [
+      "APPSEC-212",
+      "SUPEE-1533",
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405"
+    ],
+    "1.6.0.0": [
+      "APPSEC-212",
+      "SUPEE-1533",
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.6.2.0": [
+      "APPSEC-212",
+      "SUPEE-1533",
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.9.2.0": [
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.4.0.0": [
+      "APPSEC-212",
+      "SUPEE-1533",
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405"
+    ]
+  },
+  "Enterprise": {
+    "1.13.1.0": [
+      "SUPEE-1533",
+      "SUPEE-2747",
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
     ],
     "1.13.0.2": [
       "SUPEE-1533",
@@ -265,104 +242,9 @@
       "SUPEE-6482",
       "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1"
+      "SUPEE-8788"
     ],
-    "1.12.0.2": [
-      "SUPEE-1533",
-      "SUPEE-2677",
-      "SUPEE-5345",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.14.2.3": [
-      "SUPEE-7405 v1.1"
-    ],
-    "1.8.x": [
-      "SUPEE-2751",
-      "SUPEE-5388",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788"
-    ],
-    "1.11.0.0": [
-      "SUPEE-1533",
-      "SUPEE-2677",
-      "SUPEE-5341",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1",
-      "Zend Security Upgrade"
-    ],
-    "1.14.1.0": [
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.7.x": [
-      "SUPEE-2751",
-      "SUPEE-5388",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788"
-    ],
-    "1.14.0.0": [
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.10.1.1": [
-      "SUPEE-1533",
-      "SUPEE-2677",
-      "SUPEE-5390",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1",
-      "Zend Security Upgrade"
-    ],
-    "1.13.1.0": [
-      "SUPEE-1533",
-      "SUPEE-2747",
-      "SUPEE-5344",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.12.0.1": [
-      "SUPEE-1533",
-      "SUPEE-2677",
-      "SUPEE-5345",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1",
-      "Zend Security Upgrade"
-    ],
-    "1.10.0.1": [
+    "1.9.1.1": [
       "SUPEE-1533",
       "SUPEE-2750",
       "SUPEE-5388",
@@ -371,52 +253,7 @@
       "SUPEE-6482",
       "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1",
-      "Zend Security Upgrade"
-    ],
-    "1.14.2.4": [],
-    "1.14.2.0": [
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
-    ],
-    "1.11.2.0": [
-      "SUPEE-1533",
-      "SUPEE-2677",
-      "SUPEE-5346",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1",
-      "Zend Security Upgrade"
-    ],
-    "1.11.1.0": [
-      "SUPEE-1533",
-      "SUPEE-2677",
-      "SUPEE-5346",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1",
-      "Zend Security Upgrade"
-    ],
-    "1.12.0.0": [
-      "SUPEE-1533",
-      "SUPEE-2677",
-      "SUPEE-5345",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1",
+      "SUPEE-8788",
       "Zend Security Upgrade"
     ],
     "1.10.1.0": [
@@ -428,37 +265,8 @@
       "SUPEE-6482",
       "SUPEE-6788",
       "SUPEE-7405",
-      "SUPEE-7405 v1.1",
+      "SUPEE-8788",
       "Zend Security Upgrade"
-    ],
-    "1.11.0.2": [
-      "SUPEE-1533",
-      "SUPEE-2677",
-      "SUPEE-5341",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1",
-      "Zend Security Upgrade"
-    ],
-    "1.9.1.1": [
-      "SUPEE-1533",
-      "SUPEE-2750",
-      "SUPEE-5388",
-      "SUPEE-5994",
-      "SUPEE-6285",
-      "SUPEE-6482",
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1",
-      "Zend Security Upgrade"
-    ],
-    "1.14.2.1": [
-      "SUPEE-6788",
-      "SUPEE-7405",
-      "SUPEE-7405 v1.1"
     ],
     "1.6.x": [
       "SUPEE-2717",
@@ -468,9 +276,204 @@
       "SUPEE-6482",
       "SUPEE-6788"
     ],
+    "1.14.2.4": [
+      "SUPEE-8788"
+    ],
+    "1.10.0.1": [
+      "SUPEE-1533",
+      "SUPEE-2750",
+      "SUPEE-5388",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788",
+      "Zend Security Upgrade"
+    ],
+    "1.11.1.0": [
+      "SUPEE-1533",
+      "SUPEE-2677",
+      "SUPEE-5346",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788",
+      "Zend Security Upgrade"
+    ],
+    "1.10.1.1": [
+      "SUPEE-1533",
+      "SUPEE-2677",
+      "SUPEE-5390",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788",
+      "Zend Security Upgrade"
+    ],
+    "1.10.0.2": [
+      "SUPEE-1533",
+      "SUPEE-2750",
+      "SUPEE-5388",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788",
+      "Zend Security Upgrade"
+    ],
+    "1.14.2.0": [
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.14.2.3": [
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.8.x": [
+      "SUPEE-2751",
+      "SUPEE-5388",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788"
+    ],
+    "1.9.0.0": [
+      "SUPEE-1533",
+      "SUPEE-2750",
+      "SUPEE-5388",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788",
+      "Zend Security Upgrade"
+    ],
+    "1.14.0.1": [
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.12.0.2": [
+      "SUPEE-1533",
+      "SUPEE-2677",
+      "SUPEE-5345",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.14.3.0": [],
+    "1.11.0.2": [
+      "SUPEE-1533",
+      "SUPEE-2677",
+      "SUPEE-5341",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788",
+      "Zend Security Upgrade"
+    ],
+    "1.11.0.0": [
+      "SUPEE-1533",
+      "SUPEE-2677",
+      "SUPEE-5341",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788",
+      "Zend Security Upgrade"
+    ],
+    "1.11.2.0": [
+      "SUPEE-1533",
+      "SUPEE-2677",
+      "SUPEE-5346",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788",
+      "Zend Security Upgrade"
+    ],
+    "1.12.0.0": [
+      "SUPEE-1533",
+      "SUPEE-2677",
+      "SUPEE-5345",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788",
+      "Zend Security Upgrade"
+    ],
     "1.14.2.2": [
       "SUPEE-7405",
-      "SUPEE-7405 v1.1"
+      "SUPEE-8788"
+    ],
+    "1.7.x": [
+      "SUPEE-2751",
+      "SUPEE-5388",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788"
+    ],
+    "1.12.0.1": [
+      "SUPEE-1533",
+      "SUPEE-2677",
+      "SUPEE-5345",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788",
+      "Zend Security Upgrade"
+    ],
+    "1.14.2.1": [
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.14.0.0": [
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
+    ],
+    "1.14.1.0": [
+      "SUPEE-5344",
+      "SUPEE-5994",
+      "SUPEE-6285",
+      "SUPEE-6482",
+      "SUPEE-6788",
+      "SUPEE-7405",
+      "SUPEE-8788"
     ]
   }
 }
