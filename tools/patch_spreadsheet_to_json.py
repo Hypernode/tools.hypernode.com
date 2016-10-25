@@ -70,9 +70,7 @@ for sheet in document.worksheets():
 assert 'SUPEE-7405' not in giant_blob['Enterprise']['1.6.x']
 assert 'SUPEE-6788' in giant_blob['Enterprise']['1.6.x']
 assert 'SUPEE-6079' not in giant_blob['Enterprise']['1.14.2.0']
-
 assert 'SUPEE-7405 v1.1' not in giant_blob['Enterprise']['1.14.2.1']
-
 assert 'SUPEE-7405' in giant_blob['Community']['1.4.0.0']
 assert 'SUPEE-3762' not in giant_blob['Community']['1.4.0.0']
 

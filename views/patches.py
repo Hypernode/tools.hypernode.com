@@ -2,7 +2,7 @@ import json
 import os
 from bottle import abort
 
-PATH = os.path.dirname(os.path.realpath(__file__)) + '/../fixtures/required_magento_patches.json'
+PATH = os.path.dirname(os.path.realpath(__file__)) + '/../static/required_magento_patches.json'
 
 with open(PATH) as f:
     SOURCE = json.loads(f.read())
