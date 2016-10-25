@@ -25,3 +25,10 @@ git push origin
 deployment/deploy.sh
 ```
 
+Test
+
+```
+curl https://tools.hypernode.com/patches/community/1.9.2.0
+magerun hypernode:patches:list
+```
+

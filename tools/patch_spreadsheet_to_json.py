@@ -2,9 +2,12 @@
 
 import json
 import os
+from collections import defaultdict
+
 import gspread  # this is a modified version! see requirements.txt
 import logging
 
+# https://docs.google.com/spreadsheets/d/1MTbU9Bq130zrrsJwLIB9d8qnGfYZnkm4jBlfNaBF19M/pubhtml
 SPREADSHEET_ID = '1MTbU9Bq130zrrsJwLIB9d8qnGfYZnkm4jBlfNaBF19M'
 PATH = os.path.dirname(os.path.realpath(__file__))
 
@@ -21,7 +24,7 @@ if debug:
 
 
 def find_patches_for_row(row, patches):
-    required_patches = set()
+    required_patches = defaultdict(set)
     for col_id, cell in enumerate(row):
         if cell in ('', 'Not Required', 'Not Supported', 'Under investigation', 'Ask support'):
             continue
@@ -35,14 +38,25 @@ def find_patches_for_row(row, patches):
             logging.warning("Unsupported status: %s" % cell)
             continue
 
-        # remove patch version number if any
-        if ' v' in patch.lower():
-            patch = patch.split()[0]
+        # requires different patch id's per mag version, so not usable for automatic parsing
+        if 'APPSEC' in patch:
+            continue
 
-        # set so unique entries only
-        required_patches.add(patch)
+        if 'SUPEE' in patch:
+            patch_id, _, patch_version = patch.partition(' ')
+        else:
+            # "Zend Security Update"
+            patch_id, patch_version = patch, ''
 
-    return sorted(required_patches)
+        required_patches[patch_id].add(patch_version.lower())
+
+
+
+    # sort patches alphabetically on patch version and take the latest (v2 over v1.1)
+    required_patches = [k + ' ' + sorted(required_patches[k], reverse=True)[0] for k in required_patches]
+    required_patches = [k.strip() for k in required_patches]
+    return required_patches
+
 
 
 gc = gspread.public()
@@ -67,14 +81,17 @@ for sheet in document.worksheets():
         required_patches = find_patches_for_row(matrix[row_id][2:], patches)
         giant_blob[edition][version] = required_patches
 
-assert 'SUPEE-7405' not in giant_blob['Enterprise']['1.6.x']
-assert 'SUPEE-6788' in giant_blob['Enterprise']['1.6.x']
-assert 'SUPEE-6079' not in giant_blob['Enterprise']['1.14.2.0']
-assert 'SUPEE-7405 v1.1' not in giant_blob['Enterprise']['1.14.2.1']
-assert 'SUPEE-7405' in giant_blob['Community']['1.4.0.0']
-assert 'SUPEE-3762' not in giant_blob['Community']['1.4.0.0']
+try:
+    assert 'SUPEE-6788' in giant_blob['Enterprise']['1.6.x']
+    assert 'SUPEE-7405 v1.1' in giant_blob['Enterprise']['1.14.2.1']
 
-#print(json.dumps(giant_blob, indent=2))
+    assert 'SUPEE-7405' not in giant_blob['Enterprise']['1.6.x']
+    assert 'SUPEE-6079' not in giant_blob['Enterprise']['1.14.2.0']
+    assert 'SUPEE-7405' not in giant_blob['Enterprise']['1.14.2.1']
+    assert 'SUPEE-3762' not in giant_blob['Community']['1.4.0.0']
+except AssertionError:
+    print("Patch parsing didn't work out. Result is:\n%s" % json.dumps(giant_blob, indent=2))
+    raise
 
 with open(PATH + '/../static/required_magento_patches.json', 'w') as f:
     f.write(json.dumps(giant_blob, indent=2))
