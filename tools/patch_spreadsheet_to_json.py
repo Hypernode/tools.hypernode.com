@@ -24,7 +24,8 @@ if debug:
 
 
 def find_patches_for_row(row, patches):
-    required_patches = defaultdict(set)
+    required_patches = set()
+
     for col_id, cell in enumerate(row):
         if cell in ('', 'Not Required', 'Not Supported', 'Under investigation', 'Ask support'):
             continue
@@ -42,20 +43,12 @@ def find_patches_for_row(row, patches):
         if 'APPSEC' in patch:
             continue
 
-        if 'SUPEE' in patch:
-            patch_id, _, patch_version = patch.partition(' ')
-        else:
-            # "Zend Security Update"
-            patch_id, patch_version = patch, ''
-
-        required_patches[patch_id].add(patch_version.lower())
-
+        patch = patch.replace(' V', ' v')
+        required_patches.add(patch)
 
 
     # sort patches alphabetically on patch version and take the latest (v2 over v1.1)
-    required_patches = [k + ' ' + sorted(required_patches[k], reverse=True)[0] for k in required_patches]
-    required_patches = [k.strip() for k in required_patches]
-    return required_patches
+    return sorted(required_patches)
 
 
 
@@ -82,12 +75,13 @@ for sheet in document.worksheets():
         giant_blob[edition][version] = required_patches
 
 try:
+    assert 'SUPEE-8788' in giant_blob['Community']['1.7.0.0']
+    assert 'SUPEE-8788 v2' in giant_blob['Community']['1.7.0.0']
     assert 'SUPEE-6788' in giant_blob['Enterprise']['1.6.x']
     assert 'SUPEE-7405 v1.1' in giant_blob['Enterprise']['1.14.2.1']
+    assert 'SUPEE-7405' in giant_blob['Enterprise']['1.14.2.1']
 
-    assert 'SUPEE-7405' not in giant_blob['Enterprise']['1.6.x']
     assert 'SUPEE-6079' not in giant_blob['Enterprise']['1.14.2.0']
-    assert 'SUPEE-7405' not in giant_blob['Enterprise']['1.14.2.1']
     assert 'SUPEE-3762' not in giant_blob['Community']['1.4.0.0']
 except AssertionError:
     print("Patch parsing didn't work out. Result is:\n%s" % json.dumps(giant_blob, indent=2))
