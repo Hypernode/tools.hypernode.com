@@ -1,4 +1,4 @@
-![Sponsored by Hypernode](http://tools.hypernode.com/hypernode-logo.png)
+![Sponsored by Hypernode](/hypernode-logo.png)
 
 # Magento Labs (beta)
 
