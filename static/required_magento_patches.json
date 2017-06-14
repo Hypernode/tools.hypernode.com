@@ -12,7 +12,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.14.2.1": [
       "SUPEE-6788",
@@ -20,7 +21,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.0.0": [
       "SUPEE-1533",
@@ -35,10 +37,12 @@
       "SUPEE-8788",
       "SUPEE-8788 v2",
       "SUPEE-9652",
-      "Zend Security Upgrade"
+      "Zend Security Upgrade",
+      "SUPEE-9767"
     ],
     "1.14.3.1": [
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.8.x": [
       "SUPEE-2751",
@@ -58,7 +62,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.14.1.0": [
       "SUPEE-5344",
@@ -70,7 +75,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.14.2.0": [
       "SUPEE-5994",
@@ -81,7 +87,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.12.0.2": [
       "SUPEE-1533",
@@ -95,20 +102,23 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.14.2.3": [
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.14.2.2": [
       "SUPEE-7405",
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.11.0.2": [
       "SUPEE-1533",
@@ -123,7 +133,8 @@
       "SUPEE-8788",
       "SUPEE-8788 v2",
       "SUPEE-9652",
-      "Zend Security Upgrade"
+      "Zend Security Upgrade",
+      "SUPEE-9767"
     ],
     "1.13.0.2": [
       "SUPEE-1533",
@@ -137,9 +148,12 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
-    "1.14.3.2": [],
+    "1.14.3.2": [
+      "SUPEE-9767"
+    ],
     "1.7.x": [
       "SUPEE-2751",
       "SUPEE-5388",
@@ -161,7 +175,8 @@
       "SUPEE-8788",
       "SUPEE-8788 v2",
       "SUPEE-9652",
-      "Zend Security Upgrade"
+      "Zend Security Upgrade",
+      "SUPEE-9767"
     ],
     "1.12.0.1": [
       "SUPEE-1533",
@@ -191,7 +206,8 @@
       "SUPEE-8788",
       "SUPEE-8788 v2",
       "SUPEE-9652",
-      "Zend Security Upgrade"
+      "Zend Security Upgrade",
+      "SUPEE-9767"
     ],
     "1.10.0.1": [
       "SUPEE-1533",
@@ -206,10 +222,12 @@
       "SUPEE-8788",
       "SUPEE-8788 v2",
       "SUPEE-9652",
-      "Zend Security Upgrade"
+      "Zend Security Upgrade",
+      "SUPEE-9767"
     ],
     "1.14.3.0": [
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.1.1": [
       "SUPEE-1533",
@@ -224,7 +242,8 @@
       "SUPEE-8788",
       "SUPEE-8788 v2",
       "SUPEE-9652",
-      "Zend Security Upgrade"
+      "Zend Security Upgrade",
+      "SUPEE-9767"
     ],
     "1.10.1.0": [
       "SUPEE-1533",
@@ -239,7 +258,8 @@
       "SUPEE-8788",
       "SUPEE-8788 v2",
       "SUPEE-9652",
-      "Zend Security Upgrade"
+      "Zend Security Upgrade",
+      "SUPEE-9767"
     ],
     "1.14.0.0": [
       "SUPEE-5344",
@@ -251,7 +271,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.11.0.0": [
       "SUPEE-1533",
@@ -266,7 +287,8 @@
       "SUPEE-8788",
       "SUPEE-8788 v2",
       "SUPEE-9652",
-      "Zend Security Upgrade"
+      "Zend Security Upgrade",
+      "SUPEE-9767"
     ],
     "1.6.x": [
       "SUPEE-2717",
@@ -289,12 +311,14 @@
       "SUPEE-8788",
       "SUPEE-8788 v2",
       "SUPEE-9652",
-      "Zend Security Upgrade"
+      "Zend Security Upgrade",
+      "SUPEE-9767"
     ],
     "1.14.2.4": [
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.12.0.0": [
       "SUPEE-1533",
@@ -309,7 +333,8 @@
       "SUPEE-8788",
       "SUPEE-8788 v2",
       "SUPEE-9652",
-      "Zend Security Upgrade"
+      "Zend Security Upgrade",
+      "SUPEE-9767"
     ],
     "1.10.0.2": [
       "SUPEE-1533",
@@ -324,7 +349,8 @@
       "SUPEE-8788",
       "SUPEE-8788 v2",
       "SUPEE-9652",
-      "Zend Security Upgrade"
+      "Zend Security Upgrade",
+      "SUPEE-9767"
     ]
   },
   "Community": {
@@ -339,7 +365,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.2.1": [
       "SUPEE-6788",
@@ -347,7 +374,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.7.0.0": [
       "SUPEE-1533",
@@ -360,7 +388,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.0.0": [
       "SUPEE-1533",
@@ -373,7 +402,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.0.1": [
       "SUPEE-1533",
@@ -386,7 +416,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.8.0.0": [
       "SUPEE-1533",
@@ -399,7 +430,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.2.0": [
       "SUPEE-6482",
@@ -408,7 +440,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.1.0": [
       "SUPEE-5344",
@@ -420,10 +453,12 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.3.1": [
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.4.0.0": [
       "SUPEE-1533",
@@ -446,7 +481,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.5.1.0": [
       "SUPEE-1533",
@@ -459,16 +495,19 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.2.3": [
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.3.0": [
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.6.2.0": [
       "SUPEE-1533",
@@ -481,14 +520,16 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.2.2": [
       "SUPEE-7405",
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.1.1": [
       "SUPEE-5994",
@@ -499,9 +540,12 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
-    "1.9.3.2": [],
+    "1.9.3.2": [
+      "SUPEE-9767"
+    ],
     "1.4.1.1": [
       "SUPEE-1533",
       "SUPEE-5344",
@@ -523,7 +567,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.4.1.0": [
       "SUPEE-1533",
@@ -546,7 +591,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.7.0.2": [
       "SUPEE-1533",
@@ -559,7 +605,8 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.8.1.0": [
       "SUPEE-1533",
@@ -572,12 +619,14 @@
       "SUPEE-7405 v1.1",
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.9.2.4": [
       "SUPEE-8788",
       "SUPEE-8788 v2",
-      "SUPEE-9652"
+      "SUPEE-9652",
+      "SUPEE-9767"
     ],
     "1.4.0.1": [
       "SUPEE-1533",
