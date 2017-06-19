@@ -88,4 +88,4 @@ except AssertionError:
     raise
 
 with open(PATH + '/../static/required_magento_patches.json', 'w') as f:
-    f.write(json.dumps(giant_blob, indent=2))
+    f.write(json.dumps(giant_blob, indent=2, sort_keys=True))
