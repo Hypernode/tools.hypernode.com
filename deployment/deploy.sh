@@ -1,3 +1,8 @@
+#!/bin/bash
+
+set -e
+set -x
+
 DEPLOY_DIR="$(dirname "$0")"
 host=178.62.221.43
 tools/md_to_html.sh
