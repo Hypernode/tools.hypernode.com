@@ -59,7 +59,10 @@ giant_blob = {}
 
 for sheet in document.worksheets():
     matrix = sheet.get_all_values()
-    assert matrix[1][0] == 'Version'
+
+    if matrix[1][0] != 'Version':
+        # not a M1 CE or EE sheet
+        continue
 
     edition = matrix[2][0]  # Community or Enterprise
     patches = matrix[1][2:]  # skip first 2 cols
