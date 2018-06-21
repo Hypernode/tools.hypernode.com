@@ -78,7 +78,6 @@ for sheet in document.worksheets():
         giant_blob[edition][version] = required_patches
 
 try:
-    assert 'SUPEE-8788' in giant_blob['Community']['1.7.0.0']
     assert 'SUPEE-8788 v2' in giant_blob['Community']['1.7.0.0']
     assert 'SUPEE-6788' in giant_blob['Enterprise']['1.6.x']
     assert 'SUPEE-7405 v1.1' in giant_blob['Enterprise']['1.14.2.1']
