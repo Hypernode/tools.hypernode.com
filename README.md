@@ -1,5 +1,13 @@
 ![Sponsored by Hypernode](/hypernode-logo.png)
 
+
+## Deprecation notice
+
+This service will be deprecated before December of 2021. Once decommissioned `magerun hypernode:modules:list-updates` it will error with:
+```
+Could not fech data from Hypernode platform.
+```
+
 # Magento Labs (beta)
 
 A collection of tools to help manage multiple Magento installations.
